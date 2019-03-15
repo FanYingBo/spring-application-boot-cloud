@@ -1,0 +1,27 @@
+##配置服务器应用的名字
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: ${user.dir}/spring-cloud-config/spring-cloud-config-com.study.selfs.gupao.springboot.eureka.server/src/main/resources/configs
+          clone-on-start: false
+      override-none: false
+#com.study.selfs.gupao.springboot.eureka.server
+server:
+  port: 8888
+
+
+
+management:
+  endpoint:
+    env:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        exclude: /env,/beans
+

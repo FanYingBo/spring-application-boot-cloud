@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2137cb7-e4a9-494d-ae87-305a6b6fd59e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring-application/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-tyhmeleaf/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-restful/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-thymeleaf/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-user-domain/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider/spring-cloud-service-provider-slave/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-slave/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-master/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-slave/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-slave/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-second/target/" />
+    <ignored path="$PROJECT_DIR$/custom-spring-boot-starter/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1134491278">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="74" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.100" value="3" />
+          <entry key="project.open.time.101" value="3" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.106" value="1" />
+          <entry key="project.open.time.108" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.110" value="2" />
+          <entry key="project.open.time.111" value="4" />
+          <entry key="project.open.time.112" value="1" />
+          <entry key="project.open.time.113" value="1" />
+          <entry key="project.open.time.114" value="2" />
+          <entry key="project.open.time.116" value="1" />
+          <entry key="project.open.time.131" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.77" value="2" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.89" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.90" value="2" />
+          <entry key="project.open.time.91" value="2" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.open.time.96" value="1" />
+          <entry key="project.open.time.97" value="3" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="76" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="186" />
+          <entry key="JAVA" value="14986" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Properties" value="3552" />
+          <entry key="XML" value="1292" />
+          <entry key="YAML" value="1137" />
+          <entry key="spring.factories" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="65" />
+          <entry key="HTML" value="8" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="1126" />
+          <entry key="JSON" value="7" />
+          <entry key="Manifest" value="7" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="157" />
+          <entry key="Scratch" value="2" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="176" />
+          <entry key="YAML" value="29" />
+          <entry key="spring.factories" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="HttpInputMessage" value="1" />
+          <entry key="MF" value="7" />
+          <entry key="class" value="65" />
+          <entry key="devlop" value="1" />
+          <entry key="factories" value="8" />
+          <entry key="factory" value="1" />
+          <entry key="handlers" value="2" />
+          <entry key="htm" value="7" />
+          <entry key="html" value="1" />
+          <entry key="ico" value="1" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="1126" />
+          <entry key="json" value="7" />
+          <entry key="pom" value="11" />
+          <entry key="product" value="2" />
+          <entry key="properties" value="153" />
+          <entry key="provides" value="1" />
+          <entry key="schemas" value="2" />
+          <entry key="springboot" value="1" />
+          <entry key="sql" value="2" />
+          <entry key="tooling" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="165" />
+          <entry key="yaml" value="1" />
+          <entry key="yml" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="devlop" value="13" />
+          <entry key="factories" value="4" />
+          <entry key="htm" value="186" />
+          <entry key="java" value="14986" />
+          <entry key="product" value="8" />
+          <entry key="properties" value="3552" />
+          <entry key="txt" value="5" />
+          <entry key="xml" value="1292" />
+          <entry key="yaml" value="10" />
+          <entry key="yml" value="1127" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="selfs-springboot" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/intercept/LoadBalancedRequestInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="83" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11-sources.jar!/com/mysql/cj/jdbc/ha/LoadBalancedAutoCommitInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/RetryLoadBalancerInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/client/ClientHttpRequestInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="36" column="45" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/config/BeanInitializeConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="e#1276#1277#0" expanded="true" />
+                <element signature="e#1317#1318#0" expanded="true" />
+                <element signature="e#1544#1722#0" expanded="true" />
+                <element signature="e#1721#1722#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Qualifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="37" selection-start-line="37" selection-end-line="37" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-master/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>context</find>
+      <find>boolean</find>
+      <find>webApplicationType</find>
+      <find>CONTENTtY</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html xmlns\:th\=\&quot;http\:\/\/www\.thymeleaf\.org\&quot; xmlns\:tiles\=\&quot;http\:\/\/www\.thymeleaf\.org\&quot;\&gt;\n\&lt;body\&gt;\n\&lt;div tiles\:include\=\&quot;side\&quot;\&gt;\n    \&lt;table\&gt;\n        \&lt;thead\&gt;\n        \&lt;tr\&gt;\n            \&lt;th\&gt;\&lt;\/th\&gt;\n        \&lt;\/tr\&gt;\n        \&lt;\/thead\&gt;\n        \&lt;tbody\&gt;\n        \&lt;tr th\:each\=\&quot;\&quot;\&gt;\n\n        \&lt;\/tr\&gt;\n        \&lt;\/tbody\&gt;\n    \&lt;\/table\&gt;\n\&lt;\/div\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;</find>
+      <find>ACTIVE_PROFILES_PROPERTY</find>
+      <find>submit</find>
+      <find>getServletConfig</find>
+      <find>config</find>
+      <find>init</find>
+      <find>servletConfig</find>
+      <find>/refresh</find>
+      <find>endpoints</find>
+      <find>put</find>
+      <find>Endpoint ID</find>
+      <find>service-registry</find>
+      <find>/actuator</find>
+      <find>nonSecurePort</find>
+      <find>/info</find>
+      <find>zones</find>
+      <find>Factory</find>
+      <find>loadBalancerRequestFactory</find>
+      <find>loadBalancerClient</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/src/main/resources/configs" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-slave/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/server/master/controller/InstanceController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-second/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/server/master/ZookeeperServiceProviderDemo.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-second/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/server/master/ZookeeperServiceProviderSecondDemo.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/java/com/study/selfs/gupao/custom/springboot/starter/CustoConfig.java" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/spring-application/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/java/com/study/selfs/gupao/custom/springboot/CustomConfigTestDemo.java" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/java/com/study/selfs/gupao/custom/springboot/CustomConfigApplication.java" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/java/com/study/selfs/gupao/custom/springboot/starter/CustomConfig.java" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/java/com/study/selfs/gupao/custom/springboot/starter/CustomController.java" />
+        <option value="$PROJECT_DIR$/spring-application/src/main/java/com/study/selfs/gupao/springboot/CustomController.java" />
+        <option value="$PROJECT_DIR$/spring-application/src/main/java/com/study/selfs/gupao/springapplication/SpringApplicationEventDemo.java" />
+        <option value="$PROJECT_DIR$/spring-application/src/main/java/com/study/selfs/gupao/springboot/Application.java" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/java/com/study/selfs/gupao/custom/springboot/starter/CustomConfigAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/java/com/study/selfs/gupao/custom/springboot/starter/CustomConfigProperties.java" />
+        <option value="$PROJECT_DIR$/spring-application/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/custom-spring-boot-starter/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/cache/CurrentInstanceCache.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/cache/TargetInstanceCache.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/server/master/InetAddressDemo.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/server/master/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/server/master/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/server/master/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/ZookeeperDiscoveryClientDemo.java" />
+        <option value="$PROJECT_DIR$/spring-boot-jdbc/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-application/src/main/java/com/study/selfs/gupao/springboot/CustomConfigApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/controller/RestControllerDemo.java" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/service/service.java" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/service/userService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/domain/User.java" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/service/UserService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/test/LoadBalanceDemo.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/intercept/LoadBalancedRequestInterceptor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/config/BeanInitializeConfiguration.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/build-tools/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\build-tools\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selfs-springboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selfs-springboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-config-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-config-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-config-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-cloud-config-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-web:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringBootApplicationYaml</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service-provider-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service-provider-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service-provider-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfs-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service-provider-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:2.1.0.M2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:2.1.0.M2" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-commons-2.1.0.M2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:2.1.0.M2" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-commons-2.1.0.M2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:2.1.0.M2" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-commons-2.1.0.M2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-commons:2.1.0.M2" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-commons-2.1.0.M2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfs-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://D:/build-tools/apache-maven-3.5.3/localRepository/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRequestFactory.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552645760736" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gupaostudy" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35199386" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.study.selfs.gupao.springboot.eureka.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA IDE\workspace\selfs-springboot\spring-cloud-zookeeper\spring-cloud-zookeeper-server-second\src\main\resources" />
+      <recent name="D:\IDEA IDE\workspace\selfs-springboot\spring-cloud-zookeeper\spring-cloud-zookeeper-server-second\src\main\java" />
+      <recent name="D:\IDEA IDE\workspace\selfs-springboot\spring-cloud-zookeeper\spring-cloud-zookeeper-server-slave\src\main\resources" />
+      <recent name="D:\IDEA IDE\workspace\selfs-springboot\spring-cloud-zookeeper\spring-cloud-zookeeper-server-slave\src\main\java\com\study\selfs\gupao\springcloud\zookeeper\server\slave" />
+      <recent name="D:\IDEA IDE\workspace\selfs-springboot\spring-cloud-eureka\spring-cloud-eureka-server-slave\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.selfs.gupao.springboot" />
+      <recent name="com.study.selfs.gupao.springcloud.zookeeper.server.master.config" />
+      <recent name="com.study.selfs.gupao.springcloud.zookeeper.server.master.service" />
+      <recent name="com.study.selfs.gupao.springcloud.zookeeper.server.master.repository" />
+      <recent name="com.study.selfs.gupao.springcloud.zookeeper.server.master.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA IDE\workspace\selfs-springboot\spring-cloud-eureka\spring-cloud-eureka-server\src\main\resources" />
+      <recent name="D:\IDEA IDE\workspace\selfs-springboot\spring-cloud-config\spring-cloud-config-server\src\main\resources\configs" />
+      <recent name="D:\IDEA IDE\workspace\selfs-springboot\spring-boot-thymeleaf\src\main\resources\template\thymeleaf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.2962963" />
+  </component>
+  <component name="RunManager" selected="Application.LoadBalanceDemo">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InetAddressDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.selfs.gupao.springcloud.zookeeper.server.master.InetAddressDemo" />
+      <module name="spring-cloud-zookeeper-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.selfs.gupao.springcloud.zookeeper.server.master.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoadBalanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.selfs.gupao.springcloud.test.LoadBalanceDemo" />
+      <module name="spring-cloud-zookeeper-client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.selfs.gupao.springcloud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomConfigTestDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="custom-spring-boot-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.selfs.gupao.custom.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.selfs.gupao.custom.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.study.selfs.gupao.custom.springboot.CustomConfigTestDemo" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="spring-boot-data" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="spring-boot-data" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomConfigApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.selfs.gupao.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springboot.CustomConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="custom-spring-boot-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.selfs.gupao.custom.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.custom.springboot.CustomConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServceSlaveDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-eureka-server-slave" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.eureka.server.slave.EurekaServceSlaveDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.eureka.server.EurekaServerDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcViewApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.mvc.MvcViewApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceConsumerDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.service.consumer.ServiceConsumerDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceProviderMasterDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-service-provider-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.eureka.service.master.provider.ServiceProviderMasterDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceProviderSlaveDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-service-provider-slave" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.eureka.service.ServiceProviderSlaveDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDataSourceDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springboot.jdbc.SpringBootDataSourceDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRestDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-restful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springboot.restful.SpringBootRestDemo" />
+      <option name="VM_PARAMETERS" value="-XX:-HeapDumpOnOutOfMemoryError" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigClientDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.config.client.SpringCloudConfigClientDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigurationServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.config.server.SpringCloudConfigurationServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperDiscoveryClientDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-zookeeper-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.zookeeper.client.ZookeeperDiscoveryClientDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperServiceProviderDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-zookeeper-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.zookeeper.server.master.ZookeeperServiceProviderDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperServiceProviderDemoSlave" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-zookeeper-server-slave" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.zookeeper.server.slave.ZookeeperServiceProviderDemoSlave" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperServiceProviderSecondDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-zookeeper-server-second" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.selfs.gupao.springcloud.zookeeper.server.master.ZookeeperServiceProviderSecondDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.SpringBootRestDemo" />
+      <item itemvalue="Spring Boot.MvcViewApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConfigurationServer" />
+      <item itemvalue="Spring Boot.ServiceConsumerDemo" />
+      <item itemvalue="Spring Boot.EurekaServceSlaveDemo" />
+      <item itemvalue="Spring Boot.SpringCloudConfigClientDemo" />
+      <item itemvalue="Spring Boot.SpringBootDataSourceDemo" />
+      <item itemvalue="Spring Boot.ZookeeperServiceProviderDemo" />
+      <item itemvalue="Spring Boot.ZookeeperServiceProviderDemoSlave" />
+      <item itemvalue="Spring Boot.ZookeeperDiscoveryClientDemo" />
+      <item itemvalue="Spring Boot.ServiceProviderMasterDemo" />
+      <item itemvalue="Spring Boot.EurekaServerDemo" />
+      <item itemvalue="Spring Boot.ServiceProviderSlaveDemo" />
+      <item itemvalue="Application.InetAddressDemo" />
+      <item itemvalue="JUnit.CustomConfigTestDemo" />
+      <item itemvalue="Spring Boot.CustomConfigApplication" />
+      <item itemvalue="Spring Boot.CustomConfigApplication (1)" />
+      <item itemvalue="Application.LoadBalanceDemo" />
+      <item itemvalue="Spring Boot.ZookeeperServiceProviderSecondDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoadBalanceDemo" />
+        <item itemvalue="Spring Boot.CustomConfigApplication (1)" />
+        <item itemvalue="Application.InetAddressDemo" />
+        <item itemvalue="JUnit.CustomConfigTestDemo" />
+        <item itemvalue="Spring Boot.CustomConfigApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2137cb7-e4a9-494d-ae87-305a6b6fd59e" name="Default" comment="" />
+      <created>1541079470250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541079470250</updated>
+      <workItem from="1541079479789" duration="2427000" />
+      <workItem from="1541124271655" duration="20916000" />
+      <workItem from="1541229827969" duration="8295000" />
+      <workItem from="1541246867963" duration="52000" />
+      <workItem from="1541676600602" duration="9117000" />
+      <workItem from="1541815314448" duration="5636000" />
+      <workItem from="1541904051331" duration="14593000" />
+      <workItem from="1541989188611" duration="3246000" />
+      <workItem from="1542112777915" duration="114000" />
+      <workItem from="1542193606101" duration="1652000" />
+      <workItem from="1542195975144" duration="10000" />
+      <workItem from="1542198745531" duration="446000" />
+      <workItem from="1542199237659" duration="946000" />
+      <workItem from="1542258897876" duration="7483000" />
+      <workItem from="1542334851663" duration="23026000" />
+      <workItem from="1542678206367" duration="15574000" />
+      <workItem from="1542766554872" duration="11122000" />
+      <workItem from="1542786759007" duration="12196000" />
+      <workItem from="1542942086461" duration="8843000" />
+      <workItem from="1543040051483" duration="5428000" />
+      <workItem from="1543121931241" duration="5929000" />
+      <workItem from="1543205316048" duration="1490000" />
+      <workItem from="1543217534803" duration="2552000" />
+      <workItem from="1543234473004" duration="3624000" />
+      <workItem from="1543285206517" duration="2815000" />
+      <workItem from="1543297267942" duration="23000" />
+      <workItem from="1543299218964" duration="367000" />
+      <workItem from="1543300919488" duration="1156000" />
+      <workItem from="1543405835507" duration="1286000" />
+      <workItem from="1543455126405" duration="9230000" />
+      <workItem from="1543668987256" duration="687000" />
+      <workItem from="1543737890885" duration="6842000" />
+      <workItem from="1543804431247" duration="4511000" />
+      <workItem from="1543826855560" duration="7743000" />
+      <workItem from="1543889158858" duration="28507000" />
+      <workItem from="1543975253213" duration="18536000" />
+      <workItem from="1544063227109" duration="18576000" />
+      <workItem from="1544152316043" duration="50000" />
+      <workItem from="1544249350465" duration="2718000" />
+      <workItem from="1544264348088" duration="1343000" />
+      <workItem from="1544335175868" duration="7111000" />
+      <workItem from="1544411389150" duration="5972000" />
+      <workItem from="1544441839873" duration="7030000" />
+      <workItem from="1544495727621" duration="5536000" />
+      <workItem from="1544591187474" duration="17685000" />
+      <workItem from="1544669569117" duration="580000" />
+      <workItem from="1544679322805" duration="598000" />
+      <workItem from="1544683268668" duration="2139000" />
+      <workItem from="1544693005756" duration="10261000" />
+      <workItem from="1544756177936" duration="6598000" />
+      <workItem from="1544772055898" duration="802000" />
+      <workItem from="1544772899362" duration="10824000" />
+      <workItem from="1544856293049" duration="1766000" />
+      <workItem from="1544962124567" duration="1847000" />
+      <workItem from="1545376233027" duration="4676000" />
+      <workItem from="1547286582967" duration="2134000" />
+      <workItem from="1547433029000" duration="2171000" />
+      <workItem from="1547448527438" duration="3001000" />
+      <workItem from="1547467122755" duration="1198000" />
+      <workItem from="1547540148287" duration="4147000" />
+      <workItem from="1547621141621" duration="8606000" />
+      <workItem from="1548074099570" duration="4545000" />
+      <workItem from="1548128057191" duration="12141000" />
+      <workItem from="1548210942181" duration="2968000" />
+      <workItem from="1548234127848" duration="1841000" />
+      <workItem from="1548298220425" duration="5906000" />
+      <workItem from="1548387037786" duration="18890000" />
+      <workItem from="1548471177940" duration="3613000" />
+      <workItem from="1548656006823" duration="3630000" />
+      <workItem from="1548743565843" duration="1784000" />
+      <workItem from="1549015033818" duration="1219000" />
+      <workItem from="1549169100538" duration="5657000" />
+      <workItem from="1549201671370" duration="3235000" />
+      <workItem from="1549264419745" duration="8337000" />
+      <workItem from="1549719169213" duration="896000" />
+      <workItem from="1549777486706" duration="298000" />
+      <workItem from="1549856345239" duration="143000" />
+      <workItem from="1549856808189" duration="65000" />
+      <workItem from="1551967343310" duration="406000" />
+      <workItem from="1552457956989" duration="986000" />
+      <workItem from="1552459926740" duration="1370000" />
+      <workItem from="1552527372452" duration="2825000" />
+      <workItem from="1552543620784" duration="8391000" />
+      <workItem from="1552612010473" duration="2986000" />
+      <workItem from="1552615229189" duration="23569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MutliDataSourceTest - 2018.11.21 at 22h 05m 25s.xml">
+      <configuration name="MutliDataSourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MutliDataSourceTest - 2018.11.21 at 22h 08m 00s.xml">
+      <configuration name="MutliDataSourceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomConfigTestDemo - 2019.01.25 at 22h 34m 20s.xml">
+      <configuration name="CustomConfigTestDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomConfigTestDemo - 2019.01.25 at 22h 37m 22s.xml">
+      <configuration name="CustomConfigTestDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomConfigTestDemo - 2019.01.25 at 22h 40m 18s.xml">
+      <configuration name="CustomConfigTestDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomConfigTestDemo - 2019.01.25 at 22h 42m 04s.xml">
+      <configuration name="CustomConfigTestDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomConfigTestDemo - 2019.01.25 at 22h 42m 46s.xml">
+      <configuration name="CustomConfigTestDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomConfigTestDemo - 2019.01.25 at 22h 50m 01s.xml">
+      <configuration name="CustomConfigTestDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomConfigTestDemo - 2019.01.25 at 22h 59m 42s.xml">
+      <configuration name="CustomConfigTestDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomConfigTestDemo - 2019.01.25 at 23h 00m 11s.xml">
+      <configuration name="CustomConfigTestDemo" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="489490000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.604" visible="true" weight="0.4265659" />
+      <window_info id="Structure" order="1" weight="0.41198704" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.37642586" side_tool="true" weight="0.46436286" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.76133907" weight="0.32752612" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7165227" weight="0.22299652" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49838012" weight="0.32868758" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14308855" side_tool="true" weight="0.17189315" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32868758" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32868758" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32868758" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32868758" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.8569114" weight="0.42973286" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.329849" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32991362" />
+      <window_info anchor="right" id="Database" order="7" weight="0.21328294" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.55669546" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.604" visible="true" weight="0.3736501" />
+      <window_info id="Structure" order="1" weight="0.41198704" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.37642586" side_tool="true" weight="0.46436286" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329849" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.76133907" visible="true" weight="0.32752612" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7165227" weight="0.22299652" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49838012" weight="0.32868758" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14308855" side_tool="true" weight="0.17189315" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32868758" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32868758" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32868758" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32868758" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.8569114" weight="0.42973286" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.329849" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32991362" />
+      <window_info anchor="right" id="Database" order="7" weight="0.21328294" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.55669546" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/config/BeanInitializeConfiguration.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-restful/src/main/java/com/study/selfs/gupao/springboot/restful/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/converter/protobuf/ProtobufHttpMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/HttpInputMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.http.HttpInputMessage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.http.HttpInputMessage</OriginalElement>
+          <nodes>
+            <node x="23.5" y="96.0">org.springframework.http.HttpInputMessage</node>
+            <node x="52.5" y="288.0">org.springframework.http.server.ServletServerHttpRequest</node>
+            <node x="338.25" y="96.0">org.springframework.http.HttpRequest</node>
+            <node x="81.5" y="192.0">org.springframework.http.server.ServerHttpRequest</node>
+            <node x="0.0" y="384.0">org.springframework.web.multipart.support.RequestPartServletServerHttpRequest</node>
+            <node x="190.875" y="0.0">org.springframework.http.HttpMessage</node>
+            <node x="335.5" y="192.0">org.springframework.cloud.client.loadbalancer.ServiceRequestWrapper</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.http.server.ServletServerHttpRequest" target="org.springframework.http.server.ServerHttpRequest">
+              <point x="0.0" y="-23.0" />
+              <point x="0.0" y="23.0" />
+            </edge>
+            <edge source="org.springframework.http.HttpRequest" target="org.springframework.http.HttpMessage">
+              <point x="0.0" y="-23.0" />
+              <point x="428.75" y="71.0" />
+              <point x="331.125" y="71.0" />
+              <point x="46.75" y="23.0" />
+            </edge>
+            <edge source="org.springframework.http.HttpInputMessage" target="org.springframework.http.HttpMessage">
+              <point x="0.0" y="-23.0" />
+              <point x="140.0" y="71.0" />
+              <point x="237.625" y="71.0" />
+              <point x="-46.75" y="23.0" />
+            </edge>
+            <edge source="org.springframework.http.server.ServerHttpRequest" target="org.springframework.http.HttpInputMessage">
+              <point x="-58.5" y="-23.0" />
+              <point x="0.0" y="23.0" />
+            </edge>
+            <edge source="org.springframework.cloud.client.loadbalancer.ServiceRequestWrapper" target="org.springframework.http.HttpRequest">
+              <point x="0.0" y="-23.0" />
+              <point x="45.25" y="23.0" />
+            </edge>
+            <edge source="org.springframework.http.server.ServerHttpRequest" target="org.springframework.http.HttpRequest">
+              <point x="58.5" y="-23.0" />
+              <point x="257.0" y="167.0" />
+              <point x="383.5" y="167.0" />
+              <point x="-45.25" y="23.0" />
+            </edge>
+            <edge source="org.springframework.web.multipart.support.RequestPartServletServerHttpRequest" target="org.springframework.http.server.ServletServerHttpRequest">
+              <point x="0.0" y="-23.0" />
+              <point x="0.0" y="23.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-12.0" y="201.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/client/ClientHttpRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/client/OkHttp3ClientHttpRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/ZookeeperDiscoveryClientDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program-langs/java/jdk1.8.0_172/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="3840" selection-start-line="3840" selection-end-line="3840" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#178121#178122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program-langs/java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="176" column="11" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/test/LoadBalanceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1175#1176#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/cache/TargetInstanceCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/client/ClientHttpRequestExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/ServiceInstanceChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="54" column="69" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/ObjectProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1419">
+          <caret line="91" column="33" lean-forward="true" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="58" column="53" lean-forward="true" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/client/RequestCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/converter/HttpMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/handle/UserHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="88" column="25" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+          <folding>
+            <element signature="e#9398#9399#0" expanded="true" />
+            <element signature="e#9434#9435#0" expanded="true" />
+            <element signature="e#11875#11876#0" expanded="true" />
+            <element signature="e#11912#11913#0" expanded="true" />
+            <element signature="e#33078#33079#0" expanded="true" />
+            <element signature="e#33119#33120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-680">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/spring-cloud-zookeeper-client.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/client/support/InterceptingHttpAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1141">
+          <caret line="58" column="65" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.M3/spring-cloud-netflix-ribbon-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancedRetryFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRetryProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancedRetryFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE-sources.jar!/org/springframework/retry/backoff/BackOffPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE-sources.jar!/org/springframework/retry/support/RetryTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-427">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.M3/spring-cloud-netflix-ribbon-2.1.0.M3.jar!/META-INF/spring-configuration-metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.M3/spring-cloud-netflix-ribbon-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.M3/spring-cloud-netflix-ribbon-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientHttpRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/client/AsyncClientHttpRequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/AsyncLoadBalancerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="31" column="68" lean-forward="true" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11-sources.jar!/com/mysql/cj/jdbc/ha/LoadBalancedAutoCommitInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/http/client/ClientHttpRequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/RetryLoadBalancerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/intercept/LoadBalancedRequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="83" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/IRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/src/main/java/com/study/selfs/gupao/springcloud/zookeeper/client/config/BeanInitializeConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1544#1722#0" expanded="true" />
+            <element signature="e#1721#1722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.M2/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Qualifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="37" selection-start-line="37" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-master/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-boot-jdbc:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35199386" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (spring-cloud-config-client)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35199386" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35199386" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-application</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35199386" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35199386" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

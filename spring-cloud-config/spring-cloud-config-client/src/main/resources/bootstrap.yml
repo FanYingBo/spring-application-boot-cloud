@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: demo
+  cloud:
+    config:
+      uri: http://localhost:8888/
+      name: demo
+      profile: dev
+      label: master
+      enabled: true
+      fail-fast: false
+      retry:
+        initial-interval: 2000
+
+
+server:
+  port: 8081
+
+health:
+  config:
+    enabled: true
+
+management:
+  endpoint:
+    beans:
+      enabled: true
+    refresh:
+      enabled: true
+
+

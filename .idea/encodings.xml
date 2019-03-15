@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/custom-spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-restful" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-slave" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-slave" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-user-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zookeeper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-second" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-slave" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-slave" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

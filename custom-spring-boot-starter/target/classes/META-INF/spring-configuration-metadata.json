@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "custom",
+      "type": "com.study.selfs.gupao.custom.springboot.starter.CustomConfigProperties",
+      "sourceType": "com.study.selfs.gupao.custom.springboot.starter.CustomConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "custom.config",
+      "type": "java.lang.String",
+      "sourceType": "com.study.selfs.gupao.custom.springboot.starter.CustomConfigProperties"
+    },
+    {
+      "name": "custom.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.study.selfs.gupao.custom.springboot.starter.CustomConfigProperties",
+      "defaultValue": false
+    }
+  ],
+  "hints": []
+}

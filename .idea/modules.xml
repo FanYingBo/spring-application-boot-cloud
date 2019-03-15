@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/custom-spring-boot-starter/custom-spring-boot-starter.iml" filepath="$PROJECT_DIR$/custom-spring-boot-starter/custom-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfs-springboot.iml" filepath="$PROJECT_DIR$/selfs-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-application/spring-application.iml" filepath="$PROJECT_DIR$/spring-application/spring-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jdbc/spring-boot-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-jdbc/spring-boot-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-restful/spring-boot-restful.iml" filepath="$PROJECT_DIR$/spring-boot-restful/spring-boot-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-thymeleaf/spring-boot-thymeleaf.iml" filepath="$PROJECT_DIR$/spring-boot-thymeleaf/spring-boot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-slave/spring-cloud-eureka-server-slave.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-server-slave/spring-cloud-eureka-server-slave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-consumer/spring-cloud-service-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-consumer/spring-cloud-service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-master/spring-cloud-service-provider-master.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-master/spring-cloud-service-provider-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-slave/spring-cloud-service-provider-slave.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-service-provider-slave/spring-cloud-service-provider-slave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-user-domain/spring-cloud-user-domain.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-user-domain/spring-cloud-user-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper.iml" filepath="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/spring-cloud-zookeeper-client.iml" filepath="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-client/spring-cloud-zookeeper-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/spring-cloud-zookeeper-server.iml" filepath="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server/spring-cloud-zookeeper-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-second/spring-cloud-zookeeper-server-second.iml" filepath="$PROJECT_DIR$/spring-cloud-zookeeper/spring-cloud-zookeeper-server-second/spring-cloud-zookeeper-server-second.iml" />
+    </modules>
+  </component>
+</project>
