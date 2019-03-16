@@ -11,6 +11,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.stereotype.Service;
+import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.web.client.RestTemplate;
 
 import java.util.Collection;
@@ -21,6 +22,7 @@ import java.util.List;
 public class ProxyUserService  implements UserService {
 
     @Autowired
+	@LoadBalanced//初始化和注入的时候都需要加@LoadBalanced
     private RestTemplate restTemplate;
     @Autowired
     private DiscoveryClient discoveryClient;
