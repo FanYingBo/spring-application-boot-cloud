@@ -20,6 +20,7 @@
 		<module>spring-cloud-hystrix</module>
         <module>spring-cloud-feign</module>
 		<module>spring-cloud-zuul</module>
+		<module>spring-boot-aop-log-kafka</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
