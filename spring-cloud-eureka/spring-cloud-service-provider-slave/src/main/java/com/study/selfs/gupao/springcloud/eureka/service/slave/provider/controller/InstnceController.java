@@ -17,8 +17,7 @@ import java.util.List;
 
 /**
  * spring cloud两种方式对Eureka 的注册客户端进行管理
- * @see EurekaClientAutoConfiguration#discoveryClient(EurekaInstanceConfig, EurekaClient)
- * @see EurekaClientAutoConfiguration.EurekaClientConfiguration#eurekaClient(ApplicationInfoManager, EurekaClientConfig)
+ * @see EurekaClientAutoConfiguration
  *
  */
 @RestController
