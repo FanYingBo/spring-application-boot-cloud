@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: ${user.dir}/spring-cloud-config/spring-cloud-config-com.study.selfs.gupao.springboot.eureka.server/src/main/resources/configs
+          uri: ${user.dir}/spring-cloud-config/spring-cloud-config-server/com.study.selfs.gupao.springboot.eureka.server/src/main/resources/configs
           clone-on-start: false
       override-none: false
 #com.study.selfs.gupao.springboot.eureka.server

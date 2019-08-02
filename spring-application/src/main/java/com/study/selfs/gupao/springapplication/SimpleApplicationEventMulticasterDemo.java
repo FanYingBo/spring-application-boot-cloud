@@ -5,8 +5,6 @@ import org.springframework.context.PayloadApplicationEvent;
 import org.springframework.context.event.ApplicationEventMulticaster;
 import org.springframework.context.event.SimpleApplicationEventMulticaster;
 
-import java.lang.reflect.AnnotatedElement;
-
 /**
  *
  * 上下文事件机制实例

@@ -14,7 +14,6 @@
         <dependency>
             <groupId>study-springboot</groupId>
             <artifactId>custom-spring-boot-starter</artifactId>
-            <version>${project.version}</version>
         </dependency>
     </dependencies>
 
